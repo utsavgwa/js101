@@ -17,19 +17,6 @@ class Bookshelf {
     }
 }
 
-function addFavoriteBook(bookName) {
-	if (!bookName.includes("Great")) {
-		favoriteBooks.push(bookName);
-	}
-}
-
-function printFavoriteBooks() {
-	console.log(`Favorite Books: ${favoriteBooks.length}`);
-	for (let bookName of favoriteBooks) {
-		console.log(bookName);
-	}
-}
-
 function loadBooks(bookshelf) {
 	fakeAjax(BOOK_API,function onBooks(bookNames){
 		for (let bookName of bookNames) {
