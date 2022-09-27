@@ -1,5 +1,5 @@
+//example using let or short term variables
 var x,y;
-
 function diff(x,y){
   if (x>y){
     let temp=x;
