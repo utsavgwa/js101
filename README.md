@@ -7,13 +7,13 @@ Topics list -
 1	***Execution Context***	<br />
 2	***Call Stack***	<br />
 3	***Hoisting***	<br />
-4	***Functions	***	<br />
+4	***Functions***	<br />
 5	***Variable Environment***	<br />
 6	***window object in browsers***	<br />
 7	***this keyword***	<br />
 8	***global space***	<br />
 9	***undefined keyword***	<br />
-10	***Scope	***	<br />
+10	***Scope***	<br />
 11	***Lexical Environment***	<br />
 12	***Scope Chaining***	<br />
 13	***variables let and const***	<br />
