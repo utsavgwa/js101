@@ -3,7 +3,7 @@
 This is a collection of JavaScript concepts that I have learned and want to keep log of.
 I will be adding more as I learn more.
 
-Topics list -<br /><br />
+Topics list -<br />
 1	***Execution Context***	<br />
 2	***Call Stack***	<br />
 3	***Hoisting***	<br />
@@ -22,3 +22,8 @@ Topics list -<br /><br />
 16	***Reference errors***	<br />
 17	***Syntax errors***	<br />
 18	***Type errors***	<br />
+19	***Block in JS***<br />
+20	***Block Scope***<br />
+21	***Shadowing***<br />
+22	***Closure***<br />
+23	***uses of Closure***<br />
