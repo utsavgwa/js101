@@ -3,7 +3,8 @@
 This is a collection of JavaScript concepts that I have learned and want to keep log of.
 I will be adding more as I learn more.
 
-Topics list -<br />
+####JavaScript Topics list -<br />
+------------
 1	***Execution Context***	<br />
 2	***Call Stack***	<br />
 3	***Hoisting***	<br />
