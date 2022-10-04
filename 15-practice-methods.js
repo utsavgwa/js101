@@ -10,3 +10,11 @@ if (students.includes(5)) {
 
 //creating a line break in JS
 console.log("\n");
+
+var a;
+console.log(a);
+a=10;
+console.log(a);
+a="Hi there";
+console.log(a);
+
