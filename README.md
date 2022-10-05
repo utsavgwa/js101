@@ -28,3 +28,7 @@ JavaScript Topics list -<br />
 21	***Shadowing***<br />
 22	***Closure***<br />
 23	***uses of Closure***<br />
+24	***setTimeout() method in JS***<br />
+25	***examples related to setTimeout()***<br />
+26	***data hiding using closures via constructors***<br />
+27	***garbage collector in JS***<br />
