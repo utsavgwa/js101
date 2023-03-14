@@ -8,7 +8,7 @@ I will be adding more as I learn more.
 - **_Execution Context_** <br />
 - **_EC created in 2 phases - memory creating & code execution_** <br />
 - **_EC has 2 components - memory component & code component_** <br />
-- **_Call Stack_** <br />
+- **_Call Stack - for managing Execution Contexts_** <br />
 - **_difference between undefined & not defined_** <br />
 
 - **_Hoisting_** <br />
