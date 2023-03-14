@@ -5,37 +5,41 @@ I will be adding more as I learn more.
 
 ## JavaScript Topics list -<br />
 
-1 **_Execution Context_** <br />
-2 **_Call Stack_** <br />
-3 **_Hoisting_** <br />
-4 **_Functions_** <br />
-5 **_Variable Environment_** <br />
-6 **_window object in browsers_** <br />
-7 **_this keyword_** <br />
-8 **_global space_** <br />
-9 **_undefined keyword_** <br />
-10 **_Scope_** <br />
-11 **_Lexical Environment_** <br />
-12 **_Scope Chaining_** <br />
-13 **_variables let and const_** <br />
-14 **_how let, const are different from var_** <br />
-15 **_Temporal Dead Zone_** <br />
-16 **_Reference errors_** <br />
-17 **_Syntax errors_** <br />
-18 **_Type errors_** <br />
-19 **_Block in JS_**<br />
-20 **_Block Scope_**<br />
-21 **_Shadowing_**<br />
-22 **_Closure_**<br />
-23 **_uses of Closure_**<br />
-24 **_setTimeout() method in JS_**<br />
-25 **_examples related to setTimeout()_**<br />
-26 **_data hiding using closures via constructors_**<br />
-27 **_garbage collector in JS_**<br />
-28 **_function statement aka function declaration_**<br />
-29 **_function expression_**<br />
-30 **_diff between func statement and expression_**<br />
-31 **_anonymous function_**<br />
-32 **_named function expression_**<br />
-33 **_diff between parameter and arguement_**<br />
-34 **_first class functions in JS_**<br />
+- **_Execution Context_** <br />
+- **_EC created in 2 phases - memory creating & code execution_** <br />
+- **_EC has 2 components - memory component & code component_** <br />
+- **_Call Stack_** <br />
+- **_difference between undefined & not defined_** <br />
+
+- **_Hoisting_** <br />
+- **_Functions_** <br />
+- **_Variable Environment_** <br />
+- **_window object in browsers_** <br />
+- **_this keyword_** <br />
+- **_global space_** <br />
+- **_undefined keyword_** <br />
+- **_Scope_** <br />
+- **_Lexical Environment_** <br />
+- **_Scope Chaining_** <br />
+- **_variables let and const_** <br />
+- **_how let, const are different from var_** <br />
+- **_Temporal Dead Zone_** <br />
+- **_Reference errors_** <br />
+- **_Syntax errors_** <br />
+- **_Type errors_** <br />
+- **_Block in JS_**<br />
+- **_Block Scope_**<br />
+- **_Shadowing_**<br />
+- **_Closure_**<br />
+- **_uses of Closure_**<br />
+- **_setTimeout() method in JS_**<br />
+- **_examples related to setTimeout()_**<br />
+- **_data hiding using closures via constructors_**<br />
+- **_garbage collector in JS_**<br />
+- **_function statement aka function declaration_**<br />
+- **_function expression_**<br />
+- **_diff between func statement and expression_**<br />
+- **_anonymous function_**<br />
+- **_named function expression_**<br />
+- **_diff between parameter and arguement_**<br />
+- **_first class functions in JS_**<br />
