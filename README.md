@@ -12,7 +12,7 @@ JavaScript is a versatile and widely-used programming language that runs on the 
 
 ## Installation
 
-1. To explore and run the programs in this repository, you'll need to have (Node.js)[https://nodejs.org/] installed on your machine.
+1. To explore and run the programs in this repository, you'll need to have [Node.js](https://nodejs.org/) installed on your machine.
 2. Clone this repository to your local system using the following command:
 
 ```bash
