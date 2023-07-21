@@ -1,45 +1,56 @@
-﻿# List of JavaScript concepts:
+﻿# JavaScript concepts:
 
 This is a collection of JavaScript concepts that I have learned and want to keep log of.
+
 I will be adding more as I learn more.
 
-## JavaScript Topics list -<br />
+## JavaScript Topics list --
 
-- **_Execution Context_** <br />
-- **_EC created in 2 phases - memory creating & code execution_** <br />
-- **_EC has 2 components - memory component & code component_** <br />
-- **_Call Stack - for managing Execution Contexts_** <br />
-- **_difference between undefined & not defined_** <br />
-
-- **_Hoisting_** <br />
-- **_Functions_** <br />
-- **_Variable Environment_** <br />
-- **_window object in browsers_** <br />
-- **_this keyword_** <br />
-- **_global space_** <br />
-- **_undefined keyword_** <br />
-- **_Scope_** <br />
-- **_Lexical Environment_** <br />
-- **_Scope Chaining_** <br />
-- **_variables let and const_** <br />
-- **_how let, const are different from var_** <br />
-- **_Temporal Dead Zone_** <br />
-- **_Reference errors_** <br />
-- **_Syntax errors_** <br />
-- **_Type errors_** <br />
-- **_Block in JS_**<br />
-- **_Block Scope_**<br />
-- **_Shadowing_**<br />
-- **_Closure_**<br />
-- **_uses of Closure_**<br />
-- **_setTimeout() method in JS_**<br />
-- **_examples related to setTimeout()_**<br />
-- **_data hiding using closures via constructors_**<br />
-- **_garbage collector in JS_**<br />
-- **_function statement aka function declaration_**<br />
-- **_function expression_**<br />
-- **_diff between func statement and expression_**<br />
-- **_anonymous function_**<br />
-- **_named function expression_**<br />
-- **_diff between parameter and arguement_**<br />
-- **_first class functions in JS_**<br />
+| Sr. No. | Topic                                                                |
+| ------: | :------------------------------------------------------------------- |
+|       0 | How JavaScript Works?                                                |
+|       0 | is JS synchronous or asynchronous? single-threaded or multithreaded? |
+|       1 | Execution Context                                                    |
+|       2 | EC created in 2 phases - memory creating & code execution            |
+|       3 | EC has 2 components - memory component & code component              |
+|       4 | Call Stack - for managing Execution Contexts                         |
+|       5 | Difference between _undefined_ & _not defined_                       |
+|       6 | Hoisting                                                             |
+|       7 | Functions                                                            |
+|       8 | Variable Environment                                                 |
+|       9 | window object in browsers                                            |
+|      10 | this keyword                                                         |
+|      11 | global space                                                         |
+|      12 | undefined keyword                                                    |
+|      13 | Scope                                                                |
+|      14 | Lexical Environment                                                  |
+|      15 | Scope Chaining                                                       |
+|      16 | variables let and const                                              |
+|      17 | how let, const are different from var                                |
+|      18 | Temporal Dead Zone                                                   |
+|      19 | Reference errors                                                     |
+|      20 | Syntax errors                                                        |
+|      21 | Type errors                                                          |
+|      22 | Block in JS                                                          |
+|      23 | Block Scope                                                          |
+|      24 | Shadowing                                                            |
+|      25 | Closure                                                              |
+|      26 | uses of Closure                                                      |
+|      27 | setTimeout() method in JS                                            |
+|      28 | examples related to setTimeout()                                     |
+|      29 | data hiding using closures via constructors                          |
+|      30 | garbage collector in JS                                              |
+|      31 | function statement aka function declaration                          |
+|      32 | function expression                                                  |
+|      33 | diff between func statement and expression                           |
+|      34 | anonymous function                                                   |
+|      35 | named function expression                                            |
+|      36 | diff between parameter and arguement                                 |
+|      37 | first class functions in JS                                          |
+|      38 | Execution                                                            |
+|      39 | Execution                                                            |
+|      40 | Execution                                                            |
+|      41 | Execution                                                            |
+|      42 | Execution                                                            |
+|      43 | Execution                                                            |
+|      44 | Execution                                                            |
